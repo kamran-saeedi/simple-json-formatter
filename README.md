@@ -1,4 +1,4 @@
-# simple-json-formatter
+# Simple JSON Formatter
 A simple Windows application for formatting JSON data using [ScintillaNET](https://github.com/jacobslusser/ScintillaNET) for syntax highlighting and code folding.
 
 ## How to Use
